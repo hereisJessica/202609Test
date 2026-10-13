@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/lll/Desktop/Work3/finally/Compare_Algorithm_3_4/IDQN_3_4/MPLight/model/MPLight_model_2025-04-03-11-28/intersection_1_3/weights_"
+all_model_checkpoint_paths: "/home/lll/Desktop/Work3/finally/Compare_Algorithm_3_4/IDQN_3_4/MPLight/model/MPLight_model_2025-04-03-11-28/intersection_1_3/weights_"
